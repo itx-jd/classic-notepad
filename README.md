@@ -36,6 +36,6 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing. We 
 
 ## License
 
-Classic Notepad for Visual Studio is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it according to the terms of the license.
+Classic Notepad for Visual Studio is licensed under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
 
 Enjoy using the Classic Notepad for Visual Studio, and thank you for your support!

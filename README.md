@@ -16,7 +16,7 @@ The project is organized with the following structure:
 
 To download the executable file of Classic Notepad for Visual Studio, simply click the link below:
 
-[Download Classic Notepad](#)
+[Download Classic Notepad](https://github.com/itx-jd/classic-notepad/releases/download/1.0.0/Notepad.v1.0.0.exe)
 
 ## Suggestions and Contributions
 

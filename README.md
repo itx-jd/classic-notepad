@@ -21,7 +21,7 @@ Using Classic Notepad is effortless. Simply download and run—no setup needed!
 
 Take a look at Classic Notepad before you download:  
 
-![Classic Notepad Screenshot](NotepadScreenshot.png)  
+![Classic Notepad Screenshot][![Github All Releases](assets/image.jpg)]  
 
 ## ❔ Need Help?  
 

@@ -1,7 +1,5 @@
 # Classic Notepad – A Simple, No-Bloat Text Editor  
 
-## 📝 About  
-
 Classic Notepad is a lightweight, fast, and portable text editor designed for those who miss the simplicity of the classic Notepad from Windows 10 and earlier. With no unnecessary features like tabs or cloud integration, it offers a distraction-free writing experience while maintaining all the essential functions of the original Notepad.  
 
 ## ⚡ Key Features  
@@ -21,7 +19,7 @@ Using Classic Notepad is effortless. Simply download and run—no setup needed!
 
 Take a look at Classic Notepad before you download:  
 
-[![Github All Releases](assets/image.jpg)
+![Github All Releases](assets/image.jpg)
 
 ## ❔ Need Help?  
 
